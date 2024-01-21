@@ -1,8 +1,10 @@
 # Nonogram
-Версия на играта Nonogram. 
+Nonogram game version.
 
-Играта поддържа потребителски профили за играчите и пет нива на трудност, като всяко ниво има по 2 примера. Потребителите могат да създадат акаунт с потребителско име. Всеки акаунт съхранява данните на потребителя, включително напредъка на ниво. След като влезе в системата, потребителят може да избере да играе директно, докъдето е стигнал или да избира от менюто с нива, ако е минал ниво 1.
+The game supports user profiles for players and five difficulty levels, with each level having 2 examples. Users can create an account with a username. Each account stores the user's data, including level progress. After logging in, the user can choose to play directly as far as they have reached or select from the level menu if they have passed level 1.
 
-След като потребителят изчисти текущото най-високо ниво, следващото се отключва.
+Once the user clears the current highest level, the next one is unlocked.
 
-Играта работи чрез въвеждане на координати, които са координатите на зъпълнено квадратче. Ако потребителят сбърка, неговите животи намаляват.Общо животите на потребител са 3, като те също се запазват във файла на потребителя. Когато потребителят остане без животи, играта приключва. Когато играчът мине и петте нива, той е победител!
+The game works by entering coordinates, which are the coordinates of a filled square. If the user makes a mistake, their lives are reduced. A total of 3 lives per user are also saved in the user's file. When the user runs out of lives, the game ends.
+
+When the player passes all five levels, he is the winner!
